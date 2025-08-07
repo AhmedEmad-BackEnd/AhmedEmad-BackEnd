@@ -1,128 +1,69 @@
-<h1 align="center">👋 I'm Ahmed Emad</h1>
-<h3 align="center">.NET Backend Developer</h3>
+## 👋 مرحبًا، أنا أحمد عماد
+
+### 💼 .NET Backend Developer
 
 ---
 
-<!-- 🧠 Skills Progress Circle -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEmad&show_icons=true&theme=radical&hide_title=true" width="420" alt="Ahmed's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedEmad&theme=radical" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEmad&theme=radical" width="420" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEmad&layout=compact&theme=radical" width="420" alt="Top Langs"/>
-</p>
+![Ahmed Emad's GitHub Banner](https://github.com/AhmedEmad-dev/AhmedEmad-dev/assets/banner-placeholder)
 
 ---
 
-## 🧰 My Tech Stack
+## 🧠 المهارات (Tech Stack)
 
-- 💻 C++, C# (.NET Framework)
-- 🖼️ Windows Forms
-- 🛢️ SQL Server, MySQL
-- 🔌 ADO.NET
-- 🌐 REST APIs
-- 🗃️ Git, GitHub
-
----
-
-## 🚀 Projects
-
-| Project                           | Description                                                  |
-|-----------------------------------|--------------------------------------------------------------|
-| Inventory Management System       | Desktop app using Windows Forms + SQL for stock control     |
-| Auth System (Login & Register)    | Secure login/register system with hashing                   |
-| ADO.NET CRUD App                  | Connected C# Forms app to database using ADO.NET            |
-
-🛠️ More projects coming soon...
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-darkblue?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Activity
+## 📊 لغة البرمجة المستخدمة (Most Used Languages)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedEmad&theme=radical" alt="Activity Graph" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEmad-dev&layout=compact&langs_count=8)](https://github.com/AhmedEmad-dev)
 
 ---
 
-## 📫 Connect with Me
+## 🚀 مشاريع واقعية اشتغلت عليها
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedemad"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+| المشروع | الوصف | التقنيات |
+|---------|-------|----------|
+| **نظام إدارة مبيعات** | تطبيق Windows Forms لإدارة عمليات البيع والشراء والفواتير | C# / SQL / Windows Forms / ADO.NET |
+| **نظام تسجيل حضور وانصراف** | برنامج مكتبي لتنظيم حضور الموظفين | C# / Windows Forms / SQL |
 
----
-
-## 🧩 Fun Fact
-
-> "When I'm not coding, I'm probably designing something in Premiere Pro or exploring logic in C++ just for fun."
+> ✅ **سيتم إضافة مشاريع جديدة قريبًا**
 
 ---
 
-<h5 align="center">Thanks for visiting 💖</h5>
-<h1 align="center">👋 I'm Ahmed Emad</h1>
-<h3 align="center">.NET Backend Developer</h3>
+## 📈 إحصائيات GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedEmad-dev&theme=default)
 
 ---
 
-<!-- 🧠 Skills Progress Circle -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEmad&show_icons=true&theme=radical&hide_title=true" width="420" alt="Ahmed's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedEmad&theme=radical" width="420"/>
-</p>
+## 🎯 إتقان اللغات (Progress)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEmad&theme=radical" width="420" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEmad&layout=compact&theme=radical" width="420" alt="Top Langs"/>
-</p>
+![C#](https://github-profile-readme-generator.up.railway.app/api/skills/csharp/progress?value=80)
+![C++](https://github-profile-readme-generator.up.railway.app/api/skills/cpp/progress?value=70)
+![SQL](https://github-profile-readme-generator.up.railway.app/api/skills/sql/progress?value=75)
+![Windows Forms](https://github-profile-readme-generator.up.railway.app/api/skills/winforms/progress?value=85)
 
 ---
 
-## 🧰 My Tech Stack
+## 🔗 تواصل معي
 
-- 💻 C++, C# (.NET Framework)
-- 🖼️ Windows Forms
-- 🛢️ SQL Server, MySQL
-- 🔌 ADO.NET
-- 🌐 REST APIs
-- 🗃️ Git, GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedemad-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedemad.dev@gmail.com)
 
 ---
 
-## 🚀 Projects
+## 🎬 فيديو تعريفي
 
-| Project                           | Description                                                  |
-|-----------------------------------|--------------------------------------------------------------|
-| Inventory Management System       | Desktop app using Windows Forms + SQL for stock control     |
-| Auth System (Login & Register)    | Secure login/register system with hashing                   |
-| ADO.NET CRUD App                  | Connected C# Forms app to database using ADO.NET            |
-
-🛠️ More projects coming soon...
+[![Intro Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
-## 📈 GitHub Activity
+## 😄 Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedEmad&theme=radical" alt="Activity Graph" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedemad"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 🧩 Fun Fact
-
-> "When I'm not coding, I'm probably designing something in Premiere Pro or exploring logic in C++ just for fun."
-
----
-
-<h5 align="center">Thanks for visiting 💖</h5>
+كل سطر كود بكتبه، بحاول يكون خطوة جديدة في رحلتي البرمجية نحو الاحتراف 💻✨
