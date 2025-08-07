@@ -1,69 +1,69 @@
-## 👋 مرحبًا، أنا أحمد عماد
+<div align="center">
 
-### 💼 .NET Backend Developer
-
----
-
-![Ahmed Emad's GitHub Banner](https://github.com/AhmedEmad-dev/AhmedEmad-dev/assets/banner-placeholder)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 ---
 
-## 🧠 المهارات (Tech Stack)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-darkblue?style=for-the-badge)
+### 👋 Hey there! I'm Ahmed Emad
+🧠 .NET Backend Developer  
+🖥️ Full Stack Desktop Application Developer using **Windows Forms**
 
 ---
 
-## 📊 لغة البرمجة المستخدمة (Most Used Languages)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmedemad&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Emad-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-emad-ab52b7345)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEmad-dev&layout=compact&langs_count=8)](https://github.com/AhmedEmad-dev)
-
----
-
-## 🚀 مشاريع واقعية اشتغلت عليها
-
-| المشروع | الوصف | التقنيات |
-|---------|-------|----------|
-| **نظام إدارة مبيعات** | تطبيق Windows Forms لإدارة عمليات البيع والشراء والفواتير | C# / SQL / Windows Forms / ADO.NET |
-| **نظام تسجيل حضور وانصراف** | برنامج مكتبي لتنظيم حضور الموظفين | C# / Windows Forms / SQL |
-
-> ✅ **سيتم إضافة مشاريع جديدة قريبًا**
+</div>
 
 ---
 
-## 📈 إحصائيات GitHub
+### 🚀 Skills & Technologies
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedEmad-dev&theme=default)
+#### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### 🧰 Technologies
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat&logo=windows&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-4285F4?style=flat)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+#### 🧠 Concepts
+![OOP](https://img.shields.io/badge/OOP-Concept-000000?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-SOLID-8E44AD?style=flat)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Important-2C3E50?style=flat)
+
+#### 🛠 Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🎯 إتقان اللغات (Progress)
-
-![C#](https://github-profile-readme-generator.up.railway.app/api/skills/csharp/progress?value=80)
-![C++](https://github-profile-readme-generator.up.railway.app/api/skills/cpp/progress?value=70)
-![SQL](https://github-profile-readme-generator.up.railway.app/api/skills/sql/progress?value=75)
-![Windows Forms](https://github-profile-readme-generator.up.railway.app/api/skills/winforms/progress?value=85)
-
----
-
-## 🔗 تواصل معي
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedemad-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedemad.dev@gmail.com)
+### 🧩 Projects I’ve Worked On
+- ✅ Full Desktop Inventory Management System using **C# + SQL Server**
+- ✅ CRUD Applications with **ADO.NET**
+- ✅ User Authentication System with **Hashed Login**
+- ✅ Report Generator App using **.NET Windows Forms + Crystal Reports**
+*(More details and repos coming soon...)*
 
 ---
 
-## 🎬 فيديو تعريفي
+### 📫 Contact Me
 
-[![Intro Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-emad-ab52b7345)
 
 ---
 
-## 😄 Fun Fact
+<div align="center">
+  
+![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me+on+LinkedIn.)
 
-كل سطر كود بكتبه، بحاول يكون خطوة جديدة في رحلتي البرمجية نحو الاحتراف 💻✨
+</div>
