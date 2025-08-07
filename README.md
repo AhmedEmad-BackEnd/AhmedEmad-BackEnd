@@ -1,73 +1,81 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" />
-</div>
+<div align="center" width="50">
 
-<div align="center">
+  <img src="https://github.com/hafizjava/hafizjava/raw/main/banner.gif" alt="Coding Banner" width="80%"/>
+  <br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello,+I'm+Ahmed+Emad;.NET+Backend+Developer" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://t.me/your-username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
-<p align="center">
-  <em>.NET Backend Developer from Egypt 🇪🇬</em>
-</p>
+<hr>
 
-<p align="center"> 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
-  </a>
-</p>
+### 🚀 My Tech Stack
 
-<p align="center">
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/your-username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 Tech Stack
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="150"><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>.NET Stack</strong></td>
+    <td align="right" width="150"><strong>Languages:</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-      <img src="https://img.shields.io/badge/Entity_Framework-white?style=for-the-badge&logo=.net&logoColor=black" alt="Entity Framework"/>
-      <img src="https://img.shields.io/badge/ADO.NET-white?style=for-the-badge&logo=.net&logoColor=black" alt="ADO.NET"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></td>
+    <td align="right"><strong>Databases:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" alt="Tools"/></td>
+    <td align="right"><strong>Frameworks:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET">
+      <img src="https://img.shields.io/badge/Entity%20Framework-white?style=flat&logo=.net&logoColor=black" alt="Entity Framework">
+      <img src="https://img.shields.io/badge/ADO.NET-white?style=flat&logo=.net&logoColor=black" alt="ADO.NET">
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Tools:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+    </td>
   </tr>
 </table>
 
----
+<hr>
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Activity
+
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
 
----
+<hr>
 
-### 🧩 My Projects
-- ✅ **Inventory Management System** using `C#` + `SQL Server`
+### 📂 My Projects
+
+- ✅ **Inventory Management System** using `C#` + `MySQL`
 - ✅ **Tic Tac Toe Game** using `Windows Forms`
 - ✅ **Bank System** using `C++`
+
+<hr>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=orange&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!" alt="Thanks for visiting!">
+</div>
