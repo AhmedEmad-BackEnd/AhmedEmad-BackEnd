@@ -1,42 +1,56 @@
-<div align="center">
+---
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<h1 align="center">Hi 👋, I'm Ahmed Emad</h1>
+<h3 align="center">.NET Backend Developer | Specialized in Windows Forms Applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ahmed+Emad+%7C+.NET+Backend+Developer;Experienced+in+Windows+Forms+Applications" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👋 Hey there! I'm Ahmed Emad
-🧠 .NET Backend Developer  
+### 🧠 Skills
+- C#
+- .NET Framework
+- Windows Forms
+- SQL (MySQL / SQL Server)
+- ADO.NET
+- Object Oriented Programming (OOP)
 
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmedemad&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Emad-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-emad-ab52b7345)
-
-</div>
+### 🛠 Tools I Use
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</p>
 
 ---
 
-### 🚀 Skills & Technologies
+### 🧩 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+</p>
 
-#### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+---
 
-#### 🧰 Technologies & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat&logo=windows&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-4285F4?style=flat)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Core-68217A?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![LINQ](https://img.shields.io/badge/LINQ-1C1C1C?style=flat)
+### 🌐 Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad&layout=compact&langs_count=8&theme=transparent"/>
+</p>
 
-#### 🧠 Concepts
-![OOP](https://img.shields.io/badge/OOP-Concept-000000?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-SOLID-8E44AD?style=flat)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Important-2C3E50?style=flat)
+---
 
-#### 🛠 Tools
-![Visual Studio](http)
+### 🚀 Projects
+<p>📌 Projects will appear here as I upload them 👇</p>
+
+---
+
+### 📞 Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedemad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
