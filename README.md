@@ -18,9 +18,7 @@
 
 ### 🚀 My Tech Stack
 
-**Specializing in Full-Stack Desktop Applications**
-
-**Languages & Databases:**
+**💻 Languages & Databases:**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -28,22 +26,35 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-**Frameworks:**
+**🔧 Frameworks & Technologies:**
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat&logo=.net&logoColor=white" alt="Windows Forms">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET Core">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET">
+  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat&logo=.net&logoColor=white" alt="Windows Forms">
   <img src="https://img.shields.io/badge/Entity%20Framework-white?style=flat&logo=.net&logoColor=black" alt="Entity Framework">
   <img src="https://img.shields.io/badge/ADO.NET-white?style=flat&logo=.net&logoColor=black" alt="ADO.NET">
 </p>
 
-**Tools:**
+**☁️ Cloud & DevOps:**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+**🧠 Concepts & Principles:**
+<p>
+  <img src="https://img.shields.io/badge/SOLID-Principles-0078D4?style=flat" alt="SOLID Principles">
+  <img src="https://img.shields.io/badge/RESTful-APIs-0078D4?style=flat" alt="RESTful APIs">
+</p>
+
+**🛠️ Tools:**
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ---
