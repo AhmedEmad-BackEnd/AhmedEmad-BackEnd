@@ -57,9 +57,9 @@
 
 ### 📂 My Projects
 
-- ✅ **Inventory Management System** using `C#` + `MySQL`
-- ✅ **Tic Tac Toe Game** using `Windows Forms`
-- ✅ **Bank System** using `C++`
+- ✅ **[Inventory Management System](https://github.com/AhmedEmad-BackEnd/Inventory-Management-System)** using `C#` + `MySQL`
+- ✅ **[Tic Tac Toe Game](https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-Game)** using `Windows Forms`
+- ✅ **[Bank System](https://github.com/AhmedEmad-BackEnd/Bank-System-CPP)** using `C++`
 
 ---
 
