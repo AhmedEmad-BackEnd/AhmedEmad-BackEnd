@@ -1,56 +1,56 @@
----
-
-<h1 align="center">Hi 👋, I'm Ahmed Emad</h1>
-<h3 align="center">.NET Backend Developer | Specialized in Windows Forms Applications</h3>
-
+```md
+<h1 align="center">Hi there, I'm Ahmed Emad 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ahmed+Emad+%7C+.NET+Backend+Developer;Experienced+in+Windows+Forms+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ahmed+Emad+%7C+.NET+Backend+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Skills
-- C#
-- .NET Framework
-- Windows Forms
-- SQL (MySQL / SQL Server)
-- ADO.NET
-- Object Oriented Programming (OOP)
+## 🧠 Skills
+
+- 💻 Programming Languages: `C#`, `C++`, `SQL`
+- 💼 Technologies: `.NET Framework`, `Windows Forms`, `ADO.NET`
+- 🛠️ Tools: `Visual Studio`, `Git`, `GitHub`
 
 ---
 
-### 🛠 Tools I Use
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</p>
+## 🚀 Projects
 
----
+📌 **Real Projects:**
+> Soon to be added here...
 
-### 🧩 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Languages
+📌 **GitHub Contributions:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad&layout=compact&langs_count=8&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedemad&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Projects
-<p>📌 Projects will appear here as I upload them 👇</p>
+## 📊 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemad&layout=compact&theme=default" />
+</p>
 
 ---
 
-### 📞 Contact Me
-<p align="left">
+## 🌐 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmedemad" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemad&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🔘 Programming Languages Progress
+<p align="center">
+  <img src="https://github-profile-readme-generator-prod-rho.vercel.app/api/profile-readme?username=ahmedemad&theme=default&section=skills&progress=true" />
+</p>
+```
