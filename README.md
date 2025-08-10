@@ -71,12 +71,11 @@
 
 ---
 
-### 📂 My Projects
+### 💻 My Projects
 
-- ✅ **[Driving License Management System]())** using `C#`, `Windows Forms` + `MySQL`
-- ✅ **[Tic Tac Toe Game](https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-Game)** using `Windows Forms`
-- ✅ **[Bank System](https://github.com/AhmedEmad-BackEnd/Bank-System-CPP](https://github.com/AhmedEmad-BackEnd/Bank-System-using-CPP))** using `C++`
-
+- 🚗 *[Driving License Management System](URL_للمشروع_الأول_هنا)* using C#, Windows Forms & MySQL
+- ❎ *[Tic Tac Toe Game](URL_للمشروع_الثاني_هنا)* using C# & Windows Forms
+- 🏦 **[Bank System](https://github.com/AhmedEmad-BackEnd/Bank-System-using-CPP)** using C++
 ---
 
 <div align="center">
