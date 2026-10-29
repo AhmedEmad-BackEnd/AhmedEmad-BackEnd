@@ -8,7 +8,7 @@
     <a href="https://x.com/EngAhmed152006?t=aXLWuakNi5uAX1CsL5cQMA&s=09" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://www.facebook.com/share/14N8TyYLdEv/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <a href="https://www.instagram.com/ahmed1.emad2006?igsh=MXkwMWh1a3pwaHhmcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://t.me/Ahmed_Emad152006" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://t.me/Aomda15" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=AhmedEmad-BackEnd&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
